@@ -184,6 +184,25 @@ User Query
            ▼
    Streamlit Frontend
 ```
+
+## Future Enhancements
+
+- Flight and hotel booking integration
+- Multi-currency budget planning
+- Personalized recommendations based on user preferences
+- Voice-enabled travel assistant
+- Multi-language support
+- Email and PDF itinerary export
+- Live travel alerts and notifications
+- Mobile application support
+
+ ## Business Impact
+
+- Automates end-to-end travel planning using a multi-agent AI architecture.
+- Optimizes trip costs through budget-aware recommendation strategies.
+- Enhances decision-making with real-time travel data and RAG-based knowledge retrieval.
+- Delivers personalized travel itineraries by coordinating specialized AI agents.
+- Improves user experience by consolidating flights, hotels, budgeting, and travel insights into a single platform.
         
 ## Key Capabilities
 
