@@ -33,6 +33,9 @@ The system uses 6 AI agents that work together to plan a complete trip automatic
 
 ---
 
+## Front Page
+![image alt](https://github.com/Darshansrr/Multi-Agent-AI-Travel-Planning-Booking-Platform-with-RAG-and-Budget-Optimization/blob/a5063a73af9ee00bfc09f0d183e0f3516a9bac00/file_000000006cec7206b5f928538f0c631e.png)
+
 # Step 1: Create Python Environment
 
 Open the terminal inside the project folder and run:
